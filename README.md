@@ -116,7 +116,7 @@ The project includes an interactive Excel dashboard designed to provide a consol
 
 ### Dashboard Preview
 
-![Dashboard Preview](Microsoft Financial Analysis.png)
+![Dashboard Preview](Microsoft_financial_analysis.png)
 
 
 ## Business Recommendations
